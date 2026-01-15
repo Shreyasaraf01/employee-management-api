@@ -139,6 +139,12 @@ All tests should pass successfully.
 
 ---
 
+### Live link
+
+https://employee-management-api-tcbd.onrender.com/docs
+
+---
+
 ### Notes
 
 * SQLite is used for simplicity.
